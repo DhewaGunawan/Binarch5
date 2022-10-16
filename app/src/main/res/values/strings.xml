@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Binarch4</string>
+    <string name="title">Rock Paper Scissors</string>
+    <string name="you">You</string>
+    <string name="enemy">Enemy</string>
+    <string name="versus">VS</string>
+    <string name="you_win">Player Win</string>
+    <string name="you_lose">Bot Win</string>
+    <string name="your_friend_win">Your Friend Win</string>
+    <string name="draw">Draw</string>
+
+    <string name="text_previous">Previous</string>
+    <string name="text_next">Next</string>
+
+    <string name="text_snackbar_positive">Versus Player Mode : ON</string>
+    <string name="text_snackbar_negative">Versus Computer Mode : ON</string>
+
+    <string name="set_name">Set Name</string>
+
+    <string name="player_vs_computer">Player vs Computer</string>
+    <string name="player_vs_player">Player vs Player</string>
+
+    <string name="text_lock_player_one">LOCK PLAYER ONE</string>
+    <string name="text_lock_player_two">LOCK PLAYER TWO</string>
+
+    <string name="text_win">%s WIN!</string>
+
+    <string name="choose_game_mode">Choose Game Mode</string>
+    <string name="text_hint_name">Name</string>
+    <string name="text_title_input_name">Input  your  Name :</string>
+    <string name="placeholder_title_menu_game">Hi %s ! \n Which one do you want to play ?</string>
+    <string name="result_of_the_game">Result of the game</string>
+    <string name="try_again">Try again</string>
+    <string name="back_to_menu">Back to Menu</string>
+    <string name="draw_win">DRAW</string>
+</resources>
